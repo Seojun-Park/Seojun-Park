@@ -6,4 +6,9 @@
 
 **Stacks**<br />
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,gitlab,nodejs,nestjs,graphql)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,gitlab,nodejs,nestjs,graphql" />
+  </a>
+</p>
